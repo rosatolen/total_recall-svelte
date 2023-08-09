@@ -1,0 +1,126 @@
+{
+  "topics": [
+    {
+      "id": "28783bf4-f540-495c-95a0-d4b6bdb16715",
+      "title": "guitar",
+      "createdAt": "2023-06-20T19:41:26.919Z",
+      "updatedAt": "2023-06-20T19:41:26.919Z",
+      "concepts": [
+        {
+          "id": "54266baa-927e-4cb5-8421-e95a2fab8bb6",
+          "keywords": "A chord",
+          "description": "another nice chord",
+          "differentiators": "not an E chord",
+          "type": "concept",
+          "topicId": "28783bf4-f540-495c-95a0-d4b6bdb16715"
+        },
+        {
+          "id": "449cc53a-b7df-4dd2-b57c-b75fd3a2dafd",
+          "keywords": "G chord",
+          "description": "yet another nice chord",
+          "differentiators": "not an A or E chord",
+          "type": "concept",
+          "topicId": "28783bf4-f540-495c-95a0-d4b6bdb16715"
+        },
+        {
+          "id": "c3a97d7e-5bec-4e32-9d6e-731b96fbf026",
+          "keywords": "C chord",
+          "description": "an essential chord",
+          "differentiators": "not an E or A or G chord",
+          "type": "concept",
+          "topicId": "28783bf4-f540-495c-95a0-d4b6bdb16715"
+        },
+        {
+          "id": "7a665904-3fbe-4427-86a1-45d6a62a645d",
+          "keywords": "D chord",
+          "description": "a pretty chord that is sometimes hard to play",
+          "differentiators": "not a C E A or G chord",
+          "type": "concept",
+          "topicId": "28783bf4-f540-495c-95a0-d4b6bdb16715"
+        },
+        {
+          "id": "579ed09c-181e-4bd8-aaff-e3a7fee914c1",
+          "keywords": "E chord",
+          "description": " a nicer chord than I thought",
+          "differentiators": "not an A, G, C, D chord",
+          "type": "concept",
+          "topicId": "28783bf4-f540-495c-95a0-d4b6bdb16715"
+        },
+        {
+          "id": "39adfbfb-47b6-43a3-a2c5-217e2ff57475",
+          "keywords": "B chord",
+          "description": "a useful chord that is not as frequently used as the other chords",
+          "differentiators": "",
+          "type": "concept",
+          "topicId": "28783bf4-f540-495c-95a0-d4b6bdb16715"
+        }
+      ],
+      "challenges": [
+        {
+          "id": "e806788e-36f1-4a53-bc75-c73603dfa6ce",
+          "prompt": "Pluck some notes in the G chord",
+          "answer": "",
+          "type": "challenge",
+          "topicId": "28783bf4-f540-495c-95a0-d4b6bdb16715"
+        },
+        {
+          "id": "d9993195-d1fe-4f9a-aa69-d27d339348c5",
+          "prompt": "Pluck notes in the C chord",
+          "answer": "",
+          "type": "challenge",
+          "topicId": "28783bf4-f540-495c-95a0-d4b6bdb16715"
+        },
+        {
+          "id": "c506e4f6-76cb-4c64-8061-75ee50517336",
+          "prompt": "Pluck notes in the E chord",
+          "answer": "",
+          "type": "challenge",
+          "topicId": "28783bf4-f540-495c-95a0-d4b6bdb16715"
+        },
+        {
+          "id": "5cd3b0db-af64-466b-b1ca-bf6a891e2d17",
+          "prompt": "Pluck notes in the D chord",
+          "answer": "",
+          "type": "challenge",
+          "topicId": "28783bf4-f540-495c-95a0-d4b6bdb16715"
+        },
+        {
+          "id": "d5f356a1-cd70-45e2-8d7f-86c5caf49085",
+          "prompt": "Pluck a song",
+          "answer": "",
+          "type": "challenge",
+          "topicId": "28783bf4-f540-495c-95a0-d4b6bdb16715"
+        },
+        {
+          "id": "029cbf5b-2fff-4bd2-9152-2ccd3e733f2a",
+          "prompt": "Play the Beatles song Blackbird",
+          "answer": "",
+          "type": "challenge",
+          "topicId": "28783bf4-f540-495c-95a0-d4b6bdb16715"
+        }
+      ],
+      "principles": [
+        {
+          "id": "ee1b2615-20a9-425d-84a4-2d65ec92d2e7",
+          "principle": "Melody",
+          "description": "stuff stuff stuff",
+          "type": "principle",
+          "topicId": "28783bf4-f540-495c-95a0-d4b6bdb16715"
+        }
+      ]
+    },
+    {
+      "id": "841fdc89-f8bf-4fc4-b2f1-9b37a6ba2e97",
+      "title": "supplements",
+      "createdAt": "2023-07-02T20:19:47.316Z",
+      "updatedAt": "2023-07-02T20:19:47.316Z",
+      "concepts": [],
+      "challenges": [],
+      "principles": []
+    }
+  ],
+  "score": {
+    "today": 0,
+    "lastUpdated": "2023-07-09T15:19:55.947Z"
+  }
+}

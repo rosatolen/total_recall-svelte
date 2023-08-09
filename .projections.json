@@ -1,0 +1,6 @@
+{
+  "*": {"make": "npm run dev -- --open"},
+  "src/*/+page.svelte": {
+    "alternate": "src/{}/+page.server.js"
+  }
+}

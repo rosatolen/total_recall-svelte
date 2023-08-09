@@ -1,0 +1,19 @@
+{
+	"arrowParens": "avoid",
+	"bracketSpacing": false,
+	"endOfLine": "lf",
+	"htmlWhitespaceSensitivity": "css",
+	"insertPragma": false,
+	"proseWrap": "always",
+	"quoteProps": "as-needed",
+	"requirePragma": false,
+	"semi": false,
+	"tabWidth": 2,
+	"useTabs": false,
+	"singleQuote": true,
+	"trailingComma": "all",
+	"printWidth": 80,
+	"plugins": ["prettier-plugin-svelte"],
+	"pluginSearchDirs": ["."],
+	"overrides": [{ "files": "*.svelte", "options": { "parser": "svelte" } }]
+}
